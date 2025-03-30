@@ -1,2 +1,2 @@
 # network-programming
-network programming labs from nsu (still in progress)
+network programming labs from nsu 
